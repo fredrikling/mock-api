@@ -1,5 +1,18 @@
 
 {
+  "users": [{
+		"id": "1234abc1",
+		"username": "bear1",
+		"score": 55,
+		"active": true
+	},
+	{
+		"id": "1234abc1",
+		"username": "bear2",
+		"score": 55,
+		"active": "true"
+	}
+],
   "posts": [
     {
       "id": 1,
