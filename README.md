@@ -1,2 +1,2 @@
 # mock-api
-For https://my-json-server.typicode.com/    .  Använd med "my-json-server.typicode.com/user/repo/posts/1"
+For https://my-json-server.typicode.com/    .  Använd med Ex: "http://my-json-server.typicode.com/fredrikling/mock-api/posts/1"
