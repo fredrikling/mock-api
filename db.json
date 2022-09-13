@@ -1,6 +1,7 @@
 
 {
-  "users": [{
+  "users": [
+       {
 		"id": "1234abc1",
 		"username": "bear1",
 		"score": 55,
@@ -16,7 +17,7 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello2"
     }
   ],
   "profile": {
